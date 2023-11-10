@@ -1,0 +1,4 @@
+A | left wheel
+B | back arm
+D | right wheel
+E | sensor

@@ -1,0 +1,5 @@
+Function                        |                          Port
+Left Wheel                      |                             A
+Right Wheel                     |                             D
+Color/Light Sensor              |                             E
+Fork Arm                        |                             F
