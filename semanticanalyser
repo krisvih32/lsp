@@ -1,0 +1,3 @@
+func semanticanalyzer(code string) {
+	panic("unimplemented")
+}
